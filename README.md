@@ -6,4 +6,4 @@ Clone and go.
 
 ## Features
 
-  * Includes one Rake action by default: "watch" will run the Jekyll server, open the URL of the server, and start the Compass poll process
+  * Includes one Rake action by default: "watch" will run the Jekyll server and start the Compass poll process.
