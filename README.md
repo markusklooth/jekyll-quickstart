@@ -1,9 +1,11 @@
 ## Jekyll Quickstart
 
-A default directory structure for a Jekyll site. Includes a configuration for Compass.
+A default directory structure for a [Jekyll](https://github.com/mojombo/jekyll) site, suitable for rapid prototyping.
 
 Clone and go.
 
 ## Features
 
-  * Includes one Rake action by default: "watch" will run the Jekyll server and start the Compass poll process.
+  * Ready to use config file for [Compass](http://compass-style.org)
+  * Simple "rake watch" task to run the Jekyll server and start the Compass poll process.
+  * Rackup file to easy integration with [Pow](http://pow.cx/)
