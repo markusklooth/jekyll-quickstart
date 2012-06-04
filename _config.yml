@@ -1,0 +1,6 @@
+# Jekyll Quickstart: Jekyll Config
+
+auto: true
+source: ./source
+plugins: ./plugins
+destination: ./public
