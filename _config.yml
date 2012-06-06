@@ -1,6 +1,7 @@
 # Jekyll Quickstart: Jekyll Config
 
 auto: true
+title: My Jekyll Site
 source: ./source
 plugins: ./plugins
 destination: ./public
